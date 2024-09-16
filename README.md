@@ -8,8 +8,11 @@ The dataset used in this project is provided by the course **"Fundamentos de Lin
 ## Project Structure
 
 **notebooks/:** Jupyter notebooks used for the exploratory analysis and responding to business questions
+
 **dashboard/:** The code and configuration for the dashboard created in Power BI
+
 **report/:** The presentation slides that outline findings from the data analysis, business questions, and dashboard overview
+
 **README.md:** Project overview and instructions (this file)
 
 ## Key Objectives
