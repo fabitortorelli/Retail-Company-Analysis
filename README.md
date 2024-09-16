@@ -3,9 +3,10 @@
 ## Overview
 This project provides an Exploratory Data Analysis (EDA) on a retail dataset, followed by answers to key business questions and the development of an interactive dashboard. The goal is to uncover meaningful insights from sales data, assist in business decision-making, and visualize the findings through a dynamic dashboard.
 
-The dataset used in this project is provided by the course **"Fundamentos de Linguagem Python Para Análise de Dados e Data Science"** from [Data Science Academy](https://www.datascienceacademy.com.br/path-player?courseid=fundamentos-de-linguagem-python-para-analise-de-dados-e-data-science&unit=642bac12d1798ca10e00c703Unit)
+The dataset used in this project is provided by the course **"Fundamentos de Linguagem Python Para Análise de Dados e Data Science"** from [Data Science Academy](https://www.datascienceacademy.com.br/path-player?courseid=fundamentos-de-linguagem-python-para-analise-de-dados-e-data-science&unit=642bac12d1798ca10e00c703Unit).
 
 ## Project Structure
+
 **notebooks/:** Jupyter notebooks used for the exploratory analysis and responding to business questions
 **dashboard/:** The code and configuration for the dashboard created in Power BI
 **report/:** The presentation slides that outline findings from the data analysis, business questions, and dashboard overview
@@ -57,11 +58,11 @@ The dataset used in this project includes the following features:
 
 ## Tools and Technologies
 
-- Python: Used for data cleaning, analysis, and visualization
-- Pandas: For data manipulation
-- Matplotlib & Seaborn: For creating graphs and charts during EDA
-- Power BI: For building the interactive dashboard
-- Jupyter Notebook: To document and run the analysis
+- **Python:** Used for data cleaning, analysis, and visualization
+- **Pandas:** For data manipulation
+- **Matplotlib & Seaborn:** For creating graphs and charts during EDA
+- **Power BI:** For building the interactive dashboard
+- **Jupyter Notebook:** To document and run the analysis
 
 
 ## Insights
